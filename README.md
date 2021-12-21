@@ -1,15 +1,19 @@
 # GCSE Test score calculator
 a project for school, simple and has 3 stages
 
+---
+
 ## StudentTestScoreCalculatorExercise1
 This is the first one and most simple, it only allows for 10 inputs and the calculates the average
+
+---
 
 ## StudentTestScoreCalculatorExercise2
 This is the second "calculator", it inputs untill x is input
 
-## StudentTestScoreCalculatorExercise3
-Student Average Test Score Calculator Exercise 3
-## Intro
+---
+
+## StudentTestScoreCalculatorExercise3 Intro
 This is a basic program that has the ability to have a list of students and their scores. You can add, remove, and rename (although renaming is a bit buggy) groups with their own lists of students and scores. I used a dictionary for the groups as it is just a key (group name) and the value (Group’s Student List) that are stored.
 
 You can Export the groups in 2 formats, Text format which is meant for just displaying and show off the groups, results and etc. Or Json format which is meant for importing later on, saving or converting to other programs that accept json. The program also has Import function with imports the previously exported json file. 
