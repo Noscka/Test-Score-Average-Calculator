@@ -24,37 +24,37 @@ As an extra, the program also has an info/error text at the bottom to show diffe
 ### Explanation of features
 ### List
 As the main feature of this program, you can add to a list which you can later calculate the average, min and max of all the students. There is a limit of the mark being between 10 and 0, and the mark field has to be a number
-![show](https://github.com/Ruski1/Test-Score-Average-Calculator/tree/main/Images/image1.png?raw=true)
-![show](https://github.com/Ruski1/Test-Score-Average-Calculator/tree/main/Images/image2.png?raw=true)
+![show](/Images/image1.png)
+![show](/Images/image2.png)
 ##### Errors
-![errors](https://github.com/Ruski1/Test-Score-Average-Calculator/tree/main/Images/image3.png?raw=true)
-![errors](https://github.com/Ruski1/Test-Score-Average-Calculator/tree/main/Images/image4.png?raw=true)
+![errors](/Images/image3.png)
+![errors](/Images/image4.png)
 
 #### Calculate
 This is just a button that calculates the average, min and max from the current List
-![show](https://github.com/Ruski1/Test-Score-Average-Calculator/tree/main/Images/image5.png?raw=true)
+![show](/Images/image5.png)
 ##### Errors
-![errors](https://github.com/Ruski1/Test-Score-Average-Calculator/tree/main/Images/image6.png?raw=true)
+![errors](/Images/image6.png)
 
 #### Groups
 The groups are how List are sorted, each group has a name and the corresponding list to it. These groups can be added, removed, imported and renamed. 
-![show](https://github.com/Ruski1/Test-Score-Average-Calculator/tree/main/Images/image7.png?raw=true)
+![show](/Images/image7.png)
 
 To rename a group or name a new group, you have to double click. The digit is the number of entries in the group’s list.
 ##### Errors
-![errors](https://github.com/Ruski1/Test-Score-Average-Calculator/tree/main/Images/image8.png?raw=true)
+![errors](/Images/image8.png)
 
 #### Import
 Import just imports a json file that has to be selected.
-![show](https://github.com/Ruski1/Test-Score-Average-Calculator/tree/main/Images/image9.png?raw=true)
+![show](/Images/image9.png?raw=true)
 ##### Errors
-![errors](https://github.com/Ruski1/Test-Score-Average-Calculator/tree/main/Images/image10.png?raw=true)
+![errors](/Images/image10.png)
 
 ### Export
 Export has the ability to export as both text (which is for demonstrating the results in a nice way) and json (which is for importing)
-![show](https://github.com/Ruski1/Test-Score-Average-Calculator/tree/main/Images/image11.png?raw=true)
-![show](https://github.com/Ruski1/Test-Score-Average-Calculator/tree/main/Images/image12.png?raw=true)
-![show](https://github.com/Ruski1/Test-Score-Average-Calculator/tree/main/Images/image13.png?raw=true)
+![show](/Images/image11.png)
+![show](/Images/image12.png)
+![show](/Images/image13.png)
 
-### Summery
+### Summary
 This is just the submission for the gcse project and therefore doesn’t have as many features as it could do such as fullscreen, making different stuff smoother and anymore.
