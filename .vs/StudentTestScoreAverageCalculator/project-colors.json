@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "309fb3be-a817-4791-ac44-f0fb7e559489": {
+      "ProjectGuid": "309fb3be-a817-4791-ac44-f0fb7e559489",
+      "DisplayName": "StudentTestScoreAverageCalculator",
+      "ColorIndex": 0
+    },
+    "d8c0c8c8-0d3e-489d-ab19-e52ad3add3db": {
+      "ProjectGuid": "d8c0c8c8-0d3e-489d-ab19-e52ad3add3db",
+      "DisplayName": "StudentTestScoreCalculatorExercise2",
+      "ColorIndex": 1
+    },
+    "7697f790-0f13-46ce-af94-3bb6a3136aaa": {
+      "ProjectGuid": "7697f790-0f13-46ce-af94-3bb6a3136aaa",
+      "DisplayName": "StudenTestScoreCalculatorExercise3",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
