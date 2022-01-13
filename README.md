@@ -1,3 +1,4 @@
+[![Workflow CodeQL Scan](https://github.com/Ruski1/Test-Score-Average-Calculator/actions/workflows/main.yml/badge.svg)](https://github.com/Ruski1/Test-Score-Average-Calculator/actions/workflows/main.yml)
 # GCSE Test score calculator
 a project for school, simple and has 3 stages
 
