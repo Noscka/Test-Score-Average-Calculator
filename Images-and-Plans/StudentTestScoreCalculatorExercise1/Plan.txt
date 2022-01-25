@@ -1,0 +1,4 @@
+As this is going to be a console application so I will make this in c++ just for practise for myself
+
+Plan is to create a console application for this exercise as the exercise is very simple and creating a GUI might not be fit and look good for the exercise.
+To make an efficient program, I will create a for(i=0;i<10;i++) loop and a while(USERINPUT>0 && USERINPUT<10) with inside being the input and adding to array

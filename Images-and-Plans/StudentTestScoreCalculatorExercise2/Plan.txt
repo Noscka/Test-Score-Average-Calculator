@@ -1,0 +1,4 @@
+As this is going to be a console application so I will make this in c++ just for practise for myself
+
+The plan is to take code from the last exercise and morth it into the requirments of this exercise. this should just be changing the for loop to while loop and if input value == x
+break while loop and calculate average

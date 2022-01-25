@@ -1,0 +1,11 @@
+This project will be written in C# as it is easier for creating GUI
+
+I will use the same concept and take some of the code from last project as it uses json file read/write. I will try to add file import and parsing into the json file.
+I have 2 options on how the whole file structer will works, I can either make the program write 1 json file, and if the user wants to make a new group of students, write to second json. but this could create a lot of files and mess
+
+The second option which I prefer and will most likely go for, is having objects ( so {StudentName: abc, StudentScore: 10}) be inside an array ( so [Group1:{obj}, Group2:{obj}]
+The second option should allow for nice and clean way to be able to access all of the scores.
+
+I want to also add a way to export the whole json or a select group as plain text (possibly other formats later). I will have the export be in 2 formats:
+- Readable format for just to send to others, show off and etc
+- Import format, for sending and letting the other import back into the program (this I might make be a json instead of plaintext as it will make it more effiecent)
